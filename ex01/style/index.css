@@ -1,0 +1,26 @@
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    width: 1250px;
+    justify-content: center;
+}
+
+.photos{
+    float: right;
+    margin-right: 20px;
+    padding: 12px;
+    justify-content: center;
+}
+
+.photos img{
+    margin-top: 8px;
+    width: 250px;
+    display: block;
+    padding: 10px;
+}
+
+.text {
+    width: 250px;
+    align-items: center;
+}
